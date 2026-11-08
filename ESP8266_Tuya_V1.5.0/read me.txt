@@ -1,0 +1,5 @@
+This version can connect remote server and make firmware update manual 
+No automatic access point when can not connect to wifi 
+always access point when upload code for first time 
+v1.3.0 => EEPROM update
+v1.4.0 => RGB works! 
