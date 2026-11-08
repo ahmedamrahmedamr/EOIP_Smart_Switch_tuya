@@ -1,0 +1,24 @@
+﻿# Arduino / PlatformIO build output
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+*.bin
+*.elf
+*.map
+*.hex
+*.d
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# sketch backups
+*.ino.bak
+*_bak.ino.bin
